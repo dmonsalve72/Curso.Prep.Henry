@@ -1,0 +1,50 @@
+.cuerpoCompleto {
+    background-color: rgb(210, 218, 243);
+    background-image: url("https://st.depositphotos.com/1897095/2647/i/600/depositphotos_26476447-stock-photo-rainbow-clouds.jpg");
+    background-size: cover;
+
+}
+
+
+h1 {
+    color:rgb(1, 9, 36);
+    text-align: center;
+    /* margin: 0px auto; */
+}
+
+h3 {
+    color:rgb(1, 14, 56);
+    text-align:left
+    /* margin: 0px auto; */
+}
+
+h4 {
+    color:rgb(31, 32, 36);
+    text-align:left
+    /* margin: 0px auto; */
+}
+h2 {
+    color:rgb(194, 4, 4);
+    text-align:center;
+    /* margin: 0px auto; */
+}
+
+p {
+    color:rgb(31, 32, 36);
+    text-align:left
+    /* margin: 0px auto; */
+}
+.derecha {
+    display: flex;
+    justify-content: flex-end;
+}
+#datosPersonales {
+    /* flex: none; */
+    align-content: left;
+    text-align: left;
+}
+#fotoCv {
+   width: 3cm;
+   align-content: center;
+
+}
