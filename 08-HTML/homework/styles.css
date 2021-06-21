@@ -1,0 +1,48 @@
+.cuerpoCompleto {
+    background-color: rgb(210, 218, 243);
+    /* width: 1200px;
+    height: 1000px; */
+    align-self: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeG767_wiDZpGr_vpDTkRC07Ww6EzkXEwRjCL5ki2ckm7Owr3a78SP1ag5AkHVZR_loxU&usqp=CAU");
+    background-size: cover;
+    /* display: flex;
+    justify-content: center;*/
+    align-items: center;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+h1 {
+    color:red;
+    /* margin: 0px auto; */
+}
+img {
+    width: 400px;
+    /* margin: 0px auto; */
+}
+.divClass {
+    background-color: royalblue;
+    width: 800px;
+    height: auto;
+    /* display: flex; */
+    /* justify-content: center; */
+    align-items: center;
+    align-content: center;
+    margin: 0px auto;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    margin: 0px auto;
+}
+#thirdDiv {
+    background-color: seagreen;
+    width: 500px;
+    height:  600px;
+    padding: 50px;
+    border: solid 10px;
+    margin: 0px auto;
+}
